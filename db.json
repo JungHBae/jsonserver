@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "뭔가 하기 1",
+      "goal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "뭔가 하기 2",
+      "goal": "quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure",
+      "completed": false
+    }
+  ]
+}
