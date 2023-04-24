@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "뭔가 하기 1",
-      userId: "배정현",
+      "userId": "배정현",
       "goal": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
       "completed": true
     },
